@@ -1,1 +1,1 @@
-# Packages repository for the Archon Linux ISO
+# Packages repository for Archon Linux
